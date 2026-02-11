@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    font-style: italic;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
+
+a:hover {
+    color: red;
+}
