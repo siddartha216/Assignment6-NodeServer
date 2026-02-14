@@ -28,3 +28,6 @@ ABOUT PAGE ROUTE :
 
 CONTACT PAGE ROUTE : 
 <img width="1470" height="956" alt="Screenshot 2026-02-11 at 11 27 36 PM" src="https://github.com/user-attachments/assets/3f3a4bda-0ddb-4e67-89fe-5ab62230a56e" />
+404 default error page :
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6ef78209-ff3b-488d-b4f6-a3951c531b91" />
+
